@@ -1,4 +1,7 @@
-# Brand Identity
+# Media
+A place for all of the UPL media. Logos, Posters, etc.
+
+##Brand Identity
 Logo Font (Set to Bold): https://www.google.com/fonts/specimen/Quicksand
 
 The color we use is: #b70101
