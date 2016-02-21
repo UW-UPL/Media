@@ -1,6 +1,8 @@
 # Media
 A place for all of the UPL media. Logos, Posters, etc.
 
+Check [this folder](/Branding) for assets
+
 ##Brand Identity
 Logo Font (Set to Bold): https://www.google.com/fonts/specimen/Quicksand
 
